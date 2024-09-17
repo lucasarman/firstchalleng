@@ -1,0 +1,118 @@
+* { margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+body { 
+  background-color: hsl(47, 88%, 63%);
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo {
+  border-radius: 10px;
+  text-align: center;
+  color: black;
+  width: 400px;
+  height: 600px;
+  margin:200px ;
+  box-shadow: 20px 20px 50px black;
+  background-color: white
+ 
+}
+
+.logo img{
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.learning{ 
+ text-align: center;
+  
+}
+
+.learning p{
+  display: inline-block;
+  background-color:hsl(47, 88%, 63%);
+  padding: 10px 10px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.yello{ 
+  display: flex;
+  padding: 5px 30px
+}
+
+.data{ 
+  display: flex;
+  padding: 10px 30px;
+}
+
+.date{ 
+  font-size: 13px;
+}
+
+.xesque{ 
+  display: flex;
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.titulo{ 
+  padding: 10px 30px;
+}
+
+
+
+.corpo { 
+  padding: 10px 30px;
+  font-size: 20px;
+}
+
+.principal { 
+  display: flex;
+  text-align: left;
+  color: grey;
+}
+
+.profile{
+  margin-top: 70px;
+  display: flex;
+  align-items: center;
+  margin: left 0px;
+  padding: 0px;
+ 
+}
+
+
+.picture img {
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  
+} 
+.name{
+  margin-left: 10px;
+}
+
+.name p{ 
+  font-size: 18px;
+  font-weight: bold;
+  
+} 
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
